@@ -41,8 +41,6 @@ This project is a React-based web application for displaying and exporting chart
 5. Click on "Export as PNG" to download the chart as an image.
 
 ## Folder Structure
-
-- **`public/`**: Contains `index.html` and static assets.
 - **`src/`**: Source code directory.
   - **`components/`**: React components.
   - **`App.js`**: Main application component.
